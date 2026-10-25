@@ -40,4 +40,4 @@ The story takes place four years after *Spider-Man: No Way Home*. Everyone forgo
 
 ---
 
-Made by Kana for my Application Development class.
+Made by Bill for my Application Development class.
